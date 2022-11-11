@@ -3,9 +3,9 @@
 
 ## setup:
 ```
-<!-- add script here -->
+<!-- script w/ zepto.js -->
 <script src="https://cdn.jsdelivr.net/gh/kendoodoo/ctreax/ctreax.min.js"></script>
 
-<!-- done -->
+<!-- tag for editor -->
 <ctreax></ctreax>
 ```
