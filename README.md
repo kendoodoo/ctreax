@@ -4,7 +4,7 @@
 ## setup:
 ```
 <!-- script w/ zepto.js -->
-<script src="https://cdn.jsdelivr.net/gh/kendoodoo/ctreax/ctreax.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/kendoodoo/ctreax/min.js"></script>
 
 <!-- tag for editor -->
 <ctreax></ctreax>
