@@ -3,8 +3,11 @@
 
 ## setup:
 ```
-<!-- script w/ zepto.js -->
-<script src="https://cdn.jsdelivr.net/gh/kendoodoo/ctreax/min.js"></script>
+<!-- script (pure JS) -->
+<script src="https://cdn.jsdelivr.net/gh/kendoodoo/ctreax/min.vanilla.js"></script>
+
+<!-- script (JQuery) -->
+<script src="https://cdn.jsdelivr.net/gh/kendoodoo/ctreax/min.jquery.js"></script>
 
 <!-- tag for editor -->
 <ctreax></ctreax>
