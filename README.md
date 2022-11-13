@@ -1,5 +1,6 @@
 # ctreax (see-tricks) - my wygsiwyg editor for the site
-<img align="center" src="./editor-image.png">
+<center><img src="./editor-image.png"></center>
+
 #### just one insert and done
 
 ## setup:
