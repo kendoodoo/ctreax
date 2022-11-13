@@ -1,4 +1,4 @@
-# ctreax (see-tricks) - my wygsiwyg editor for the site
+# <b>C</b><i><u>treax</u></i> (see-tricks) - my wygsiwyg editor for the site
 <p align="center"><img src="./editor-image.png"></p>
 
 <p align="center">Just one insert and done!</p>
