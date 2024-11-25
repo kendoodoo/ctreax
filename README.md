@@ -4,7 +4,7 @@
 ## setup:
 ```
 <!-- script -->
-<script src="http://ctreax.kentest.net/min.vanilla.js"></script>
+<script src="https://kendoodoo.github.io/ctreax/min.vanilla.js"></script>
 
 <!-- tag for editor -->
 <ctreax color="whatever_color"></ctreax>
