@@ -4,7 +4,7 @@
 ## setup:
 ```
 <!-- script -->
-<script src="https://kendoodoo.github.io/ctreax/min.vanilla.js"></script>
+<script src="https://kendoodoo.github.io/ctreax/min.vanilla.js" async></script>
 
 <!-- tag for editor -->
 <ctreax color="whatever_color"></ctreax>
